@@ -121,13 +121,6 @@ void upload_dataset(float *p, uint8_t rows, uint8_t cols) {
   }
 }
 
-
-
-
-
-
-
-
 void setup() 
 {
     tft.init();
